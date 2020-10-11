@@ -1,0 +1,7 @@
+name = "lunchmoney-n26"
+type = "webpack"
+account_id = "31446ab31376434bdd79279d1435d40f"
+workers_dev = true
+route = ""
+zone_id = "b73bc541d990619e905ac9a70f860898"
+webpack_config = "webpack.config.js"
